@@ -68,15 +68,3 @@ Based in **Mangalore**, I am passionate about frontend development and enjoy exp
 3. Updated [Virtual Keyboard](https://github.com/Yash29739/Virtual_keyboard) on 2025-06-04  
 4. Created [Digital Detox Website](https://github.com/Yash29739/Digital-Detox-website) on 2025-07-20  
 5. Updated [Search Automator for Microsoft Rewards](https://github.com/Yash29739/Search_automator_for_Microsoft_Rewards) on 2025-06-04
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/bm-yashwanth-697281259/"}
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year

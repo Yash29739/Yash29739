@@ -5,7 +5,7 @@ I'm **B M Yashwanth**, a dedicated frontend web developer specializing in **Next
 ## About Me
 
 Based in **Mangalore**, I am passionate about frontend development and enjoy exploring new technologies. I have worked on various projects, honing my skills in modern web development frameworks and tools. I am always eager to learn and grow in this fast-paced industry.
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast227&layout=compact&theme=default" width="48%" />
 ## Skills & Technologies
 <!-- Languages and Frameworks -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
